@@ -1,2 +1,1 @@
-# Gazprom_test_tasks
-Three test tasks of Gazprom
+# Folder with testing tasks
