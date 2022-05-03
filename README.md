@@ -1,4 +1,7 @@
-# Folder with testing tasks
-1. Gazprom (11.01.2021)
-2. Conundrum (24.10.2021)
-
+# Machine_Learning_cases
+Some Machine Learning and other math cases.
+1. Sensors_analysis (choosing of working regime relying on sensors time series data);
+2. Times series forecast (SARIMAX) and some math cases;
+3. Airbn_New_User_Booking (ranging kaggle case, top-7%);
+4. Time_series_cointegration estimation;
+5. Houses_price_forecast (regression case).
